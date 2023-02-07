@@ -1,7 +1,3 @@
-# youtube_topview_video
-most top view video parser with python and selenium
-
-
 # Simply find the most top view video of Infishin's video on Youtube channel with python and selenium
 ------------------------------
 
